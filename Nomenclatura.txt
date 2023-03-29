@@ -1,0 +1,26 @@
+Nombrando funciones... 
+
+Habrás visto que en la anterior video clase comenzamos a ponerle nombres a nuestras funciones, 
+¿verdad? Bueno, existen diferentes maneras de escribir nombres dentro del mundo del código. 
+Antes de continuar a la siguiente lección, queremos contartelas.
+
+¿Qué es una nomenclatura?
+
+Las nomenclaturas son formas de llamar a las cosas. En programación existen ciertas
+reglas sobre las cuales llevamos uniformidad en el código y nos proporcionan un
+estándar de trabajo especialmente dentro de equipos de desarrollo de software.
+
+Existen 3 tipos de nomenclatura principal: camelCase, PascalCase, snake_case.
+
+camelCase: Este modo de nombrar implica la unión de dos o más palabras sin espacios entre ellas,
+pero diferenciadas por una letra mayúscula inicial a partir de la segunda palabra, por
+ejemplo: holaMundo / funcionEdadAños.
+
+PascalCase: Es similar a camelCase pero la primera letra de la frase también se inicia con
+Es similar a camelCase pero la primera letra de la frase también se inicia con
+entre palabras y cada palabra siempre empieza con su primera letra mayúscula. Por
+ejemplo: HolaMundo / FuncionEdadAños
+
+snake_case: La nomenclatura snake_case  es definida de esta forma porque siempre la usamos
+sobre el piso. Las letras siempre  serán minúsculas y las  palabras están separadas por
+un guion bajo de esta forma: hola_mundo / funcion_edad_años
